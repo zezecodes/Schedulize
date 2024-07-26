@@ -14,6 +14,19 @@
 		FB81727A2BAA105F000F9A06 /* SchedulizeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB8172792BAA105F000F9A06 /* SchedulizeTests.swift */; };
 		FB8172842BAA105F000F9A06 /* SchedulizeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB8172832BAA105F000F9A06 /* SchedulizeUITests.swift */; };
 		FB8172862BAA105F000F9A06 /* SchedulizeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB8172852BAA105F000F9A06 /* SchedulizeUITestsLaunchTests.swift */; };
+		FBA18B9A2BAA224F005D725D /* ProfilePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBA18B992BAA224F005D725D /* ProfilePage.swift */; };
+		FBA18B9C2BAA225E005D725D /* LoginPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBA18B9B2BAA225E005D725D /* LoginPage.swift */; };
+		FBA18B9E2BAA2270005D725D /* SignUpPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBA18B9D2BAA2270005D725D /* SignUpPage.swift */; };
+		FBA18BA02BAA229D005D725D /* Homepage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBA18B9F2BAA229D005D725D /* Homepage.swift */; };
+		FBA18BA22BAA22FD005D725D /* ScheduleContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBA18BA12BAA22FD005D725D /* ScheduleContainer.swift */; };
+		FBA18BA42BAA234B005D725D /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBA18BA32BAA234B005D725D /* User.swift */; };
+		FBA18BA62BAA2360005D725D /* ScheduleItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBA18BA52BAA2360005D725D /* ScheduleItem.swift */; };
+		FBA18BA82BAA23B2005D725D /* ContentViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBA18BA72BAA23B2005D725D /* ContentViewViewModel.swift */; };
+		FBA18BAA2BAA23C7005D725D /* ProfilePageViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBA18BA92BAA23C7005D725D /* ProfilePageViewModel.swift */; };
+		FBA18BAC2BAA23E2005D725D /* LoginPageViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBA18BAB2BAA23E2005D725D /* LoginPageViewModel.swift */; };
+		FBA18BAE2BAA23F2005D725D /* SignUpPageViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBA18BAD2BAA23F2005D725D /* SignUpPageViewModel.swift */; };
+		FBA18BB02BAA240C005D725D /* HomepageViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBA18BAF2BAA240C005D725D /* HomepageViewModel.swift */; };
+		FBA18BB22BAA2422005D725D /* ScheduleContainerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBA18BB12BAA2422005D725D /* ScheduleContainerViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +58,20 @@
 		FB81727F2BAA105F000F9A06 /* SchedulizeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SchedulizeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB8172832BAA105F000F9A06 /* SchedulizeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SchedulizeUITests.swift; sourceTree = "<group>"; };
 		FB8172852BAA105F000F9A06 /* SchedulizeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SchedulizeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FBA18B982BAA20CA005D725D /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		FBA18B992BAA224F005D725D /* ProfilePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfilePage.swift; sourceTree = "<group>"; };
+		FBA18B9B2BAA225E005D725D /* LoginPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPage.swift; sourceTree = "<group>"; };
+		FBA18B9D2BAA2270005D725D /* SignUpPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpPage.swift; sourceTree = "<group>"; };
+		FBA18B9F2BAA229D005D725D /* Homepage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Homepage.swift; sourceTree = "<group>"; };
+		FBA18BA12BAA22FD005D725D /* ScheduleContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScheduleContainer.swift; sourceTree = "<group>"; };
+		FBA18BA32BAA234B005D725D /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		FBA18BA52BAA2360005D725D /* ScheduleItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScheduleItem.swift; sourceTree = "<group>"; };
+		FBA18BA72BAA23B2005D725D /* ContentViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewViewModel.swift; sourceTree = "<group>"; };
+		FBA18BA92BAA23C7005D725D /* ProfilePageViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfilePageViewModel.swift; sourceTree = "<group>"; };
+		FBA18BAB2BAA23E2005D725D /* LoginPageViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPageViewModel.swift; sourceTree = "<group>"; };
+		FBA18BAD2BAA23F2005D725D /* SignUpPageViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpPageViewModel.swift; sourceTree = "<group>"; };
+		FBA18BAF2BAA240C005D725D /* HomepageViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomepageViewModel.swift; sourceTree = "<group>"; };
+		FBA18BB12BAA2422005D725D /* ScheduleContainerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScheduleContainerViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,9 +122,10 @@
 		FB8172662BAA105D000F9A06 /* Schedulize */ = {
 			isa = PBXGroup;
 			children = (
-				FB8172672BAA105D000F9A06 /* SchedulizeApp.swift */,
-				FB8172692BAA105D000F9A06 /* ContentView.swift */,
-				FB81726B2BAA105F000F9A06 /* Assets.xcassets */,
+				FBA18B972BAA2099005D725D /* Other */,
+				FBA18B962BAA2084005D725D /* Models */,
+				FBA18B952BAA206E005D725D /* ViewModels */,
+				FBA18B942BAA2061005D725D /* Views */,
 				FB81726D2BAA105F000F9A06 /* Schedulize.entitlements */,
 				FB81726E2BAA105F000F9A06 /* Preview Content */,
 			);
@@ -127,6 +155,51 @@
 				FB8172852BAA105F000F9A06 /* SchedulizeUITestsLaunchTests.swift */,
 			);
 			path = SchedulizeUITests;
+			sourceTree = "<group>";
+		};
+		FBA18B942BAA2061005D725D /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				FB8172692BAA105D000F9A06 /* ContentView.swift */,
+				FBA18B992BAA224F005D725D /* ProfilePage.swift */,
+				FBA18B9B2BAA225E005D725D /* LoginPage.swift */,
+				FBA18B9D2BAA2270005D725D /* SignUpPage.swift */,
+				FBA18B9F2BAA229D005D725D /* Homepage.swift */,
+				FBA18BA12BAA22FD005D725D /* ScheduleContainer.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		FBA18B952BAA206E005D725D /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				FBA18BA72BAA23B2005D725D /* ContentViewViewModel.swift */,
+				FBA18BA92BAA23C7005D725D /* ProfilePageViewModel.swift */,
+				FBA18BAB2BAA23E2005D725D /* LoginPageViewModel.swift */,
+				FBA18BAD2BAA23F2005D725D /* SignUpPageViewModel.swift */,
+				FBA18BAF2BAA240C005D725D /* HomepageViewModel.swift */,
+				FBA18BB12BAA2422005D725D /* ScheduleContainerViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		FBA18B962BAA2084005D725D /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				FBA18BA32BAA234B005D725D /* User.swift */,
+				FBA18BA52BAA2360005D725D /* ScheduleItem.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		FBA18B972BAA2099005D725D /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				FB8172672BAA105D000F9A06 /* SchedulizeApp.swift */,
+				FBA18B982BAA20CA005D725D /* GoogleService-Info.plist */,
+				FB81726B2BAA105F000F9A06 /* Assets.xcassets */,
+			);
+			path = Other;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -217,6 +290,9 @@
 				Base,
 			);
 			mainGroup = FB81725B2BAA105C000F9A06;
+			packageReferences = (
+				FB8172922BAA1919000F9A06 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			productRefGroup = FB8172652BAA105D000F9A06 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -259,8 +335,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FBA18BB22BAA2422005D725D /* ScheduleContainerViewModel.swift in Sources */,
+				FBA18B9C2BAA225E005D725D /* LoginPage.swift in Sources */,
+				FBA18B9E2BAA2270005D725D /* SignUpPage.swift in Sources */,
+				FBA18B9A2BAA224F005D725D /* ProfilePage.swift in Sources */,
+				FBA18BA62BAA2360005D725D /* ScheduleItem.swift in Sources */,
+				FBA18BAA2BAA23C7005D725D /* ProfilePageViewModel.swift in Sources */,
+				FBA18BAC2BAA23E2005D725D /* LoginPageViewModel.swift in Sources */,
+				FBA18BA02BAA229D005D725D /* Homepage.swift in Sources */,
+				FBA18BA42BAA234B005D725D /* User.swift in Sources */,
 				FB81726A2BAA105D000F9A06 /* ContentView.swift in Sources */,
+				FBA18BAE2BAA23F2005D725D /* SignUpPageViewModel.swift in Sources */,
+				FBA18BB02BAA240C005D725D /* HomepageViewModel.swift in Sources */,
+				FBA18BA22BAA22FD005D725D /* ScheduleContainer.swift in Sources */,
 				FB8172682BAA105D000F9A06 /* SchedulizeApp.swift in Sources */,
+				FBA18BA82BAA23B2005D725D /* ContentViewViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -422,6 +511,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Schedulize/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Schedulize;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -430,8 +520,7 @@
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
@@ -458,6 +547,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Schedulize/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Schedulize;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -466,8 +556,7 @@
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
@@ -609,6 +698,17 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		FB8172922BAA1919000F9A06 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 10.23.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
 	};
 	rootObject = FB81725C2BAA105C000F9A06 /* Project object */;
 }
